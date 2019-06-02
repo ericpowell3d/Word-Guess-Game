@@ -10,14 +10,16 @@ body {
     color: #000;
 }
 
-header {
-    padding: 24px;
-    margin: 0px;
+h1 {
+    font-size: 48px;
+    color: #000;
+}
+h2 {
+    font-size: 24px;
     color: #000;
 }
 
 footer {
     padding: 24px;
     clear: both;
-    background: #fff;
 }
