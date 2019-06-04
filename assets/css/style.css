@@ -18,6 +18,9 @@ h2 {
     font-size: 24px;
     color: #000;
 }
+p {
+    display: inline;
+}
 
 footer {
     padding: 24px;
