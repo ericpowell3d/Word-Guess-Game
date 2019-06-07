@@ -347,7 +347,7 @@ $(document).ready(function() {
       $("#" + userGuess).remove();
   
       for (var i = 0; i < name.length; i++) {
-        if(userGuess === name[i].toUpperCase()) {
+        if (userGuess === name[i].toUpperCase()) {
           document.getElementById(i).textContent = " " + name[i].toUpperCase() + " ";
           lettersRemaining--;
           correctGuess = true;
