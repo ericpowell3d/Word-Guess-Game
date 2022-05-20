@@ -15,3 +15,9 @@ Pseudo Code:
 
 -if the player guesses all the letters, add a win and reset the name, amount of letters, amount of guesses, & letters guessed
 -if the player guess amount hits 0, add a loss and reset the name, amount of letters, amount of guesses, & letters guessed
+
+- - -
+
+### Link
+
+https://ericpowelldev.github.io/Word-Guess-Game/
