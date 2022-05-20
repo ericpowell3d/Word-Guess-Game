@@ -20,4 +20,4 @@ Pseudo Code:
 
 ### Link
 
-https://ericpowelldev.github.io/Word-Guess-Game/
+https://ericpowelldev.github.io/Bootcamp_Witcher-Hangman/
